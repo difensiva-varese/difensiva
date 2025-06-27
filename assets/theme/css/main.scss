@@ -58,3 +58,8 @@ $custom_rounded: "{{ site.rounded_corners }}";
 @import "_card";              // Blog post card
 @import "_team";              // Team members
 @import "_footer";              // Footer
+
+.navbar-nav .nav-link {
+  color: #000 !important;
+  font-weight: bold;
+}

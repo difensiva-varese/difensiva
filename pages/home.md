@@ -8,7 +8,7 @@ DifensIva ASD Varese.
 
 <br><br>
 <p align="center">
-  <img src="images_2/difensiva_people.jpg" alt="logo" />
+  <img src="images_2/difensiva_people.png" alt="logo" />
 </p>
 
 <!--

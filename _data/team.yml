@@ -3,7 +3,7 @@
 
 - name: Ivan Mundo
   role:  # Will appear next to name
-  image: # Can be external link
+  image: /images_2/difensiva_photo.jpg # Can be external link
   description: > # Can be Markdown
   cv: 
   email: difensiva-varese@gmail.com

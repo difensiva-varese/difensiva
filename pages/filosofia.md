@@ -8,5 +8,5 @@ I nostri corsi
 
 <br><br>
 <p align="center">
-  <img src="{{ '/images_2/video.gif' | relative_url }}" alt="video" />
+  <img src="/difensiva/images_2/video.gif" alt="video" />
 </p>

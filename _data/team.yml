@@ -1,0 +1,12 @@
+# Project team members listed below will appear on the /team page
+
+
+- name: Ivan Mundo
+  role:  # Will appear next to name
+  image: # Can be external link
+  description: > # Can be Markdown
+  cv: 
+  email: difensiva-varese@gmail.com
+  #researchgate: researchgate_name
+  #twitter: twitter_name
+ 

@@ -1,5 +1,5 @@
 # SITE SETTINGS
-title: DifensIva                        # Title in top navigation bar (navbar) and <head>
+#title: DifensIva                        # Title in top navigation bar (navbar) and <head>
 description: Jekyll theme for research project websites # Site description in <head>
 author: Ivan Mundo                  # Used for copyright statement in footer
 url:  "https://difensiva-varese.github.io" # No slash at the end

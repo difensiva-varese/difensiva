@@ -2,7 +2,8 @@
 layout: team
 title: Istruttori
 description: Chi siamo
+background: /images_2/difensiva_people.jpg
 permalink: /istruttori/
 ---
 
-On this page you can list team members by defining them in [`_data/team.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/team.yml).
+

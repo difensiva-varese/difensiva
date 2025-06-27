@@ -8,5 +8,5 @@ I nostri corsi
 
 <br><br>
 <p align="center">
-  <img src="/images_2/video.gif" alt="logo" />
+  <img src="/images_2/video.gif" alt="video" />
 </p>

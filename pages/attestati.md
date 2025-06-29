@@ -5,6 +5,7 @@ permalink: /corsi/
 ---
 
 I nostri corsi sono attivi <b>da settembre a giugno. 
+
 <br>Per i praticanti costanti c'è la possibilità di svolgere a fine anno esami per certificare il livello raggiunto.
 <br>
 

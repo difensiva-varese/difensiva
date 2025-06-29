@@ -4,7 +4,8 @@ background: /images_2/difensiva_people.jpg
 permalink: /corsi/
 ---
 
-I nostri corsi attivi <b>da settembre a giugno:
+I nostri corsi sono attivi <b>da settembre a giugno. 
+Per i praticanti costanti c'è la possibilità di svolgere a fine anno esami per certificare il livello raggiunto.
 <br>
 
 <b>DifensIva

@@ -5,6 +5,14 @@ permalink: /
 ---
 
 
+
+<br><br>
+<p align="center">
+  <img src="/difensiva/images_2/difensiva_photo.jpg" alt="video" />
+</p>
+
+
+
 <!--
 <br><br>
 <p align="center">

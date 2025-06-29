@@ -1,10 +1,10 @@
 ---
 title: <br>DifensIva <br> ASD
-background: /images_2/difensiva_people.jpg
+background: /images_2/difensiva_logo.jpg
 permalink: /
 ---
 
-DifensIva ASD Varese.
+
 
 <br><br>
 <p align="center">

@@ -1,5 +1,5 @@
 ---
-#title: <br>DifensIva <br> ASD
+title: <br>DifensIva <br> ASD
 background: /images_2/difensiva_logo.jpg
 permalink: /
 ---
@@ -10,7 +10,7 @@ permalink: /
 <p align="center">
   <img src="/images_2/difensiva_people.jpg" alt="logo" />
 </p>
--->
+
 
 <!--
 <p align="center">

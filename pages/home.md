@@ -8,7 +8,7 @@ permalink: /
 
 <br><br>
 <p align="center">
-  <img src="/difensiva/images_2/difensiva_photo.jpg" alt="video" />
+  <img src="/difensiva/images_2/difensiva_photo.jpg" alt="video" style="width: 40%; height: auto;"/>
 </p>
 
 

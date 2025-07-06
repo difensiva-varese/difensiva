@@ -19,10 +19,10 @@ Inizia il tuo percorso con noi!
 <br><br>
 
 
-
+<!--
 <p align="center">
   <img src="/difensiva/images_2/video.gif" alt="video" style="width: 40%; height: auto;"/>
 </p>
-
+-->
 
 

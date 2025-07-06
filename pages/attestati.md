@@ -17,16 +17,11 @@ I nostri corsi sono attivi <b>da settembre a giugno.
 
 <br><br>
 
-<video autoplay loop muted playsinline>
-  <source src="/difensiva/images_2/difensiva_video_1.gif" type="video/mp4"  style="width: 40%; height: auto;">
-  Il tuo browser non supporta i video.
-</video>
 
-<!--
 <p align="center">
   <img src="/difensiva/images_2/difensiva_video_1.gif" alt="video" style="width: 40%; height: auto;"/>
 </p>
--->
+
 
 <br><br>
 <span style="color:red;"><b>DifensIva no contact

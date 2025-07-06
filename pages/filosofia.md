@@ -18,15 +18,11 @@ Inizia il tuo percorso con noi!
 
 <br><br>
 
-<video autoplay loop muted playsinline>
-  <source src="/difensiva/images_2/video.gif" type="video/mp4"  style="width: 40%; height: auto;">
-  Il tuo browser non supporta i video.
-</video>
 
-<!--
+
 <p align="center">
   <img src="/difensiva/images_2/video.gif" alt="video" style="width: 40%; height: auto;"/>
 </p>
--->
+
 
 

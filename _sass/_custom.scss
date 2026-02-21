@@ -333,3 +333,18 @@ header {
   inset: 0;
   background: rgba(0,0,0,.25);
 }
+
+header,
+.site-header {
+  padding-top: .25rem !important;
+  padding-bottom: .25rem !important;
+}
+
+.navbar {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.navbar-brand img {
+  max-height: 44px !important;  /* abbassa a 36 se vuoi super compatto */
+}

@@ -8917,5 +8917,5 @@ body > footer {
 
 /* 2) Dai un'altezza stabile al banner (scegli tu) */
 .page-banner, .page-header, .banner, header.masthead {
-  min-height: 320px; /* prova 260–420px */
+  min-height: 260px; /* prova 260–420px */
 }

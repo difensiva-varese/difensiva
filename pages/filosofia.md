@@ -19,7 +19,7 @@ Inizia il tuo percorso con noi!
 <br><br>
 
 <p align="center">
-  <img src="/images_2/video_difesa.gif" alt="video" style="width: 40%; height: auto;"/>
+  <img src="/images_2/gif_difesa.gif" alt="video" style="width: 40%; height: auto;"/>
 </p>
 
 

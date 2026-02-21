@@ -1,6 +1,6 @@
 ---
 title: <br>Corsi
-background: /images_2/difensiva_classe.jpg
+background: /images_2/difensiva_classe_all.jpg
 permalink: /corsi/
 ---
 

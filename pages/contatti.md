@@ -1,3 +1,10 @@
+---
+title: <br><br>Contatti
+background: /images_2/difensiva_location.png
+permalink: /contatti/
+---
+
+
 <div class="page-lead">
 La nostra palestra si trova in <span class="highlight">Via Olona 29, Induno Olona (Varese)</span>, a 10 minuti dal centro.
 </div>

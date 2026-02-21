@@ -249,3 +249,69 @@ header {
   font-weight: 700;
   color: #0f172a;
 }
+/* ===== CONTATTI ===== */
+
+.contact-grid{
+  display: grid;
+  grid-template-columns: 1.2fr .8fr;
+  gap: 1.5rem;
+  margin-top: 1.25rem;
+}
+
+@media (max-width: 900px){
+  .contact-grid{ grid-template-columns: 1fr; }
+}
+
+.contact-card{
+  background: #fff;
+  border: 1px solid rgba(15,23,42,.08);
+  border-radius: 18px;
+  padding: 1.5rem;
+  box-shadow: 0 10px 30px rgba(15,23,42,.06);
+}
+
+.map-link{
+  display: block;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid rgba(15,23,42,.08);
+}
+
+.map-image{
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.contact-list{
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1rem 0;
+}
+
+.contact-list li{
+  padding: .5rem 0;
+  border-bottom: 1px solid rgba(15,23,42,.06);
+}
+
+.contact-list li:last-child{
+  border-bottom: 0;
+}
+
+.small-note{
+  color: #475569;
+  font-size: .95rem;
+  margin-top: .75rem;
+}
+
+.flyer-card{
+  margin-top: 1.5rem;
+}
+
+.flyer-image{
+  max-width: 780px;
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+  border: 1px solid rgba(15,23,42,.08);
+}

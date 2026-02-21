@@ -19,9 +19,9 @@ posts_on_home: 3                        # Show x number of latest posts on homep
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
 logo: /images_2/difensiva_logo.png # Logo in navbar, will be displayed with 30px height
 colors:
-  links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
-  banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
-  footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
+  links:  "#d62828"   # rosso energico
+  banner: "#111827"   # quasi nero (header)
+  footer: "#0b1220"   # footer scuro                 # Background color for footer: use color that contrasts well with white
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
 
 # BUILD SETTINGS

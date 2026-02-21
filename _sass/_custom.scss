@@ -1,18 +1,84 @@
 /* Miglioramento tipografia */
-
-body {
-  font-size: 18px;
-  line-height: 1.7;
-}
-
-main .container,
-.page-content {
-  max-width: 920px;
-}
-
 h1, h2, h3 {
   line-height: 1.2;
   letter-spacing: -0.02em;
   margin-top: 1.2em;
   margin-bottom: 0.5em;
+}
+/* === Typography === */
+:root{
+  --brand: #d62828;
+  --ink: #0f172a;
+  --muted: #475569;
+  --surface: #ffffff;
+  --surface-2: #f8fafc;
+}
+
+body{
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  color: var(--ink);
+  font-size: 18px;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, .navbar-brand{
+  font-family: "Montserrat", "Inter", system-ui, sans-serif;
+  letter-spacing: -0.02em;
+}
+
+h1{ font-weight: 800; font-size: 2.2rem; line-height: 1.15; }
+h2{ font-weight: 800; font-size: 1.6rem; margin-top: 1.6rem; }
+h3{ font-weight: 700; font-size: 1.25rem; }
+
+p{ color: var(--ink); margin-bottom: 1rem; }
+small, .text-muted{ color: var(--muted) !important; }
+
+/* === Readability: limit line length === */
+main .container,
+main .content,
+.page-content{
+  max-width: 980px;
+}
+
+/* === Links === */
+a{
+  color: var(--brand);
+  text-underline-offset: 3px;
+}
+a:hover{ filter: brightness(0.9); }
+
+/* === Cards / boxes === */
+.card, .post-card, .team-member, .content .box{
+  border-radius: 16px;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+}
+
+/* === Images === */
+main img{
+  border-radius: 16px;
+}
+
+/* === Buttons (Bootstrap-ish) === */
+.btn, button, input[type="submit"]{
+  border-radius: 999px;
+  padding: .65rem 1rem;
+  font-weight: 700;
+}
+.btn-primary{
+  background: var(--brand);
+  border-color: var(--brand);
+}
+.btn-primary:hover{
+  filter: brightness(0.95);
+}
+
+/* === Navbar: leggermente più “premium” === */
+.navbar{
+  backdrop-filter: blur(8px);
+}
+.navbar a{
+  font-weight: 700;
 }

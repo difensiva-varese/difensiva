@@ -125,14 +125,25 @@ header {
   padding-top: 1rem !important;
   padding-bottom: 1rem !important;
 }
-/* ===== Rimuove titolo duplicato sotto il banner ===== */
+/* ===== Riduce spazio bianco sopra il banner ===== */
 
-.page-header h2,
-.page-header .lead,
-.page-header + .container h2:first-child {
-  display: none !important;
+header {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
 }
 
-.page-header .container h2 {
-  display: none !important;
+.navbar {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.navbar-brand img {
+  max-height: 50px;   /* regola tra 40–60 */
+}
+
+/* Se esiste una classe masthead / site-header */
+.site-header,
+.masthead {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
 }

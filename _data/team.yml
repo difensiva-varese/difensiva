@@ -3,7 +3,7 @@
 
 - name: Ivan Mundo
   role:  # Will appear next to name
-  image: /images_2/difensiva_ivan_2jpg # Can be external link
+  image: /images_2/difensiva_ivan_2.jpg # Can be external link
   description: > # Can be Markdown
     Fondatore del nuovo metodo riconosciuto CSEN affiliato CONI. Praticante di arti marziali dal 2006, ha integrato l'esperienza acquisita praticando varie arti marziali. Di queste, è istruttore certificato di Wing Chun, Jeet Kune Do, Shaolin, Qi Gong, Kung Fu tradizionale e moderno. Dal 2016 è anche agente di sicurezza certificato CH (Camorino, Bellinzona).
   cv: 

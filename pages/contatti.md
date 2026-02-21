@@ -29,7 +29,7 @@ La nostra palestra si trova in <span class="highlight">Via Olona 29, Induno Olon
       <li><strong>Indirizzo:</strong> Via Olona 29, Induno Olona (VA)</li>
       <li><strong>Telefono:</strong> <a href="tel:+393201458721">+39 320 145 8721</a></li>
       <li><strong>Email:</strong> <a href="mailto:difensiva1986@gmail.com">difensiva1986@gmail.com</a></li>
-      <li><strong>Instagram:</strong> <a href="https://www.instagram.com/difens.iva/" target="_blank" rel="noopener">@difens.iva</a></li>
+      <li><strong>Instagram:</strong> <a href="https://www.instagram.com/difensiva_asd/" target="_blank" rel="noopener">@difens.iva</a></li>
     </ul>
 
     <div class="cta-row" style="justify-content:flex-start;">

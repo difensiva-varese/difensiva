@@ -7,7 +7,7 @@ permalink: /filosofia/
 
 <br><br>
 <p align="center">
-  <img src="/difensiva/images_2/difensiva_filosofia.jpg" alt="video" style="width: 40%; height: auto;"/>
+  <img src="/images_2/difensiva_filosofia.jpg" alt="video" style="width: 40%; height: auto;"/>
 </p>
 
 
@@ -18,11 +18,9 @@ Inizia il tuo percorso con noi!
 
 <br><br>
 
-
-<!--
 <p align="center">
-  <img src="/difensiva/images_2/video.gif" alt="video" style="width: 40%; height: auto;"/>
+  <img src="/images_2/video_difesa.gif" alt="video" style="width: 40%; height: auto;"/>
 </p>
--->
+
 
 

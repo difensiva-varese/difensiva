@@ -138,7 +138,7 @@ header {
 }
 
 .navbar-brand img {
-  max-height: 50px;   /* regola tra 40–60 */
+  max-height: 30px;   /* regola tra 40–60 */
 }
 
 /* Se esiste una classe masthead / site-header */
@@ -146,4 +146,60 @@ header {
 .masthead {
   padding-top: 0.5rem !important;
   padding-bottom: 0.5rem !important;
+}
+
+/* ===== Filosofia / pagine: layout e componenti ===== */
+
+.page-lead{
+  font-size: 1.2rem;
+  line-height: 1.7;
+  font-weight: 600;
+  color: #0f172a;
+  margin: 1rem 0 2rem 0;
+}
+
+.feature-grid{
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+@media (max-width: 900px){
+  .feature-grid{ grid-template-columns: 1fr; }
+}
+
+.feature-card{
+  background: #ffffff;
+  border: 1px solid rgba(15,23,42,.08);
+  border-radius: 16px;
+  padding: 1rem 1rem;
+  box-shadow: 0 8px 24px rgba(15,23,42,.06);
+}
+
+.feature-card h3{
+  margin: 0 0 .35rem 0;
+  font-size: 1.1rem;
+  font-weight: 800;
+}
+
+.callout{
+  background: #f8fafc;
+  border-left: 5px solid #d62828;
+  padding: 1rem 1rem;
+  border-radius: 12px;
+}
+
+.page-image{
+  max-width: 520px;
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+}
+
+.cta-row{
+  display: flex;
+  justify-content: center;
+  gap: .75rem;
+  flex-wrap: wrap;
+  margin-top: 1.5rem;
 }

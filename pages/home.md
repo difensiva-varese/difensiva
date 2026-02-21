@@ -10,6 +10,10 @@ Impara a difenderti con **DifensIva ASD**, la disciplina che integra diverse art
 Tecnica, consapevolezza e sicurezza per ogni età.
 </div>
 
+<div style="text-align:center; margin-top: 3rem;">
+  <img src="{{ site.baseurl }}/images_2/difensiva_omino.jpeg" alt="DifensIva" style="max-width: 300px; width: 100%; height: auto;">
+</div>
+
 ---
 
 ## Perché scegliere DifensIva
@@ -29,8 +33,11 @@ Tecnica, consapevolezza e sicurezza per ogni età.
 
 ---
 
+
 <div style="text-align:center; margin-top: 3rem;">
-  <img src="{{ site.baseurl }}/images_2/difensiva_omino.jpeg" alt="DifensIva" style="max-width: 250px; width: 100%; height: auto;">
+  <video controls style="width: 40%; height: auto;">
+    <source src="{{ site.baseurl }}/images_2/video_difesa.mp4" type="video/mp4">
+  </video>
 </div>
 
 <!--

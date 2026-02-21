@@ -58,22 +58,5 @@ $custom_rounded: "{{ site.rounded_corners }}";
 @import "_card";              // Blog post card
 @import "_team";              // Team members
 @import "_footer";              // Footer
-@import "_custom";
+@import "custom";
 
-// Personalizzazione navbar
-#main-nav {
-  background-color: white !important;
-  border-bottom: 1px solid #eee;
-}
-
-#main-nav .navbar-brand {
-  color: #d4af37 !important; // oro
-  font-weight: bold;
-  font-size: 2rem;
-}
-
-.navbar-nav .nav-link {
-  color: #000 !important;
-  font-weight: bold;
-  margin-right: 1rem;
-}

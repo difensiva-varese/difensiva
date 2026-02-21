@@ -19,10 +19,10 @@ Per i praticanti costanti è possibile sostenere esami annuali per certificare i
 L'allenamento include preparazione atletica, linee e forme dell'arte (con applicazione in coppia), esercizi di sensibilità e condizionamento, ascolto interno del corpo.</p>
 
 <div class="course-time">
-Lunedì 18:30 – 20:00<br>
-Lunedì 20:00 – 21:30 (seconda classe)<br>
-Giovedì 18:30 – 20:00<br>
-Giovedì 20:00 – 21:30 (seconda classe)
+Lunedì 18:30 – 20:00 (classe maschile)<br>
+Lunedì 20:00 – 21:30 (classe mista)<br>
+Giovedì 18:30 – 20:00 (classe maschile)<br>
+Giovedì 20:00 – 21:30 (classe mista)
 </div>
 </div>
 

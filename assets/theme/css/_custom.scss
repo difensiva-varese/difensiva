@@ -1,0 +1,18 @@
+/* Miglioramento tipografia */
+
+body {
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+main .container,
+.page-content {
+  max-width: 920px;
+}
+
+h1, h2, h3 {
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
+}

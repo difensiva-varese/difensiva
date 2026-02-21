@@ -30,14 +30,15 @@ Tecnica, consapevolezza e sicurezza per ogni età.
 ---
 
 <div style="text-align:center; margin-top: 3rem;">
-  <img src="{{ site.baseurl }}/images_2/difensiva_omino.jpeg" alt="DifensIva" style="max-width: 500px; width: 100%; height: auto;">
+  <img src="{{ site.baseurl }}/images_2/difensiva_omino.jpeg" alt="DifensIva" style="max-width: 250px; width: 100%; height: auto;">
 </div>
 
+<!--
 <br><br>
 <p align="center">
   <img src="/difensiva/images_2/difensiva_omino.jpeg" alt="video" style="width: 40%; height: auto;"/>
 </p>
-
+-->
 
 
 <!--

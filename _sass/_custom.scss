@@ -311,3 +311,13 @@ header {
   border-radius: 16px;
   border: 1px solid rgba(15,23,42,.08);
 }
+.page-header {
+  background-size: cover;
+  background-position: center;
+}
+.page-header::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,.35);
+}

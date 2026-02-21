@@ -5,7 +5,7 @@ permalink: /filosofia/
 ---
 
 <div class="page-lead">
-La filosofia di DifensIva unisce **tecnica** e **consapevolezza**: impari a proteggerti, ma soprattutto a gestire attenzione, emozioni e decisioni sotto pressione.
+La filosofia di DifensIva unisce <span style="color:red;"><b>tecnica</b> e <span style="color:red;"><b>consapevolezza</b>: impari a proteggerti, ma soprattutto a gestire attenzione, emozioni e decisioni sotto pressione.
 </div>
 
 ---

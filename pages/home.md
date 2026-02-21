@@ -1,6 +1,6 @@
 ---
 title: <br>DifensIva <br> ASD
-background: /images_2/difensiva_palestra.jpg
+background: /images_2/difensiva_palestra_2.jpg
 permalink: /
 ---
 

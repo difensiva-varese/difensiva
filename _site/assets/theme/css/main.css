@@ -8907,3 +8907,15 @@ body > footer {
     display: inline; }
     body > footer .small.mt-2 p + p:before {
       content: " — "; }
+
+      /* 1) Mostra tutta l'immagine (no zoom/crop) */
+.page-banner, .page-header, .banner, header.masthead {
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+}
+
+/* 2) Dai un'altezza stabile al banner (scegli tu) */
+.page-banner, .page-header, .banner, header.masthead {
+  min-height: 320px; /* prova 260–420px */
+}

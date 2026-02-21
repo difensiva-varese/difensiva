@@ -1,6 +1,5 @@
 ---
-title: Contatti
-description: Contatti
+title: <br><br>Contatti
 background: /images_2/difensiva_location.png
 permalink: /contatti/
 ---

@@ -203,3 +203,49 @@ header {
   flex-wrap: wrap;
   margin-top: 1.5rem;
 }
+
+.highlight{
+  color: #d62828;
+  font-weight: 800;
+}
+
+/* ===== CORSI ===== */
+
+.course-grid{
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+@media (max-width: 900px){
+  .course-grid{
+    grid-template-columns: 1fr;
+  }
+}
+
+.course-card{
+  background: #ffffff;
+  border: 1px solid rgba(15,23,42,.08);
+  border-radius: 18px;
+  padding: 1.5rem;
+  box-shadow: 0 10px 30px rgba(15,23,42,.06);
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.course-card:hover{
+  transform: translateY(-4px);
+  box-shadow: 0 15px 40px rgba(15,23,42,.1);
+}
+
+.course-card h3{
+  font-weight: 800;
+  color: #d62828;
+  margin-bottom: .5rem;
+}
+
+.course-time{
+  margin-top: 1rem;
+  font-weight: 700;
+  color: #0f172a;
+}

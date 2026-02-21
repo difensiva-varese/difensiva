@@ -351,7 +351,7 @@ header,
 
 /* Override del div con inline style height:300px */
 .text-center.my-3{
-  height: 90px !important;     /* prova 70–120 */
+  height: 120px !important;     /* prova 70–120 */
   margin-top: .5rem !important;
   margin-bottom: .5rem !important;
 }
@@ -379,4 +379,9 @@ header,
   width: 100%;
   height: auto;
   display: block;
+}
+.video-wrapper{
+  background: #f8fafc;
+  padding: 1rem;
+  border-radius: 20px;
 }

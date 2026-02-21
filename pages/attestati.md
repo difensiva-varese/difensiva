@@ -20,7 +20,9 @@ L'allenamento include preparazione atletica, linee e forme dell'arte (con applic
 
 <div class="course-time">
 Lunedì 18:30 – 20:00<br>
-Giovedì 18:30 – 20:00
+Lunedì 20:00 – 21:30 (seconda classe)<br>
+Giovedì 18:30 – 20:00<br>
+Giovedì 20:00 – 21:30 (seconda classe)
 </div>
 </div>
 
@@ -42,7 +44,7 @@ Giovedì 20:00 – 21:00
 Include preparazione atletica, linee e forme dell'arte, esercizi di sensibilità e ascolto del corpo.</p>
 
 <div class="course-time">
-Sabato 11:00 – 12:00
+Sabato 10:00 – 11:00
 </div>
 </div>
 
@@ -53,7 +55,7 @@ Sabato 11:00 – 12:00
 Percorso senza contatto per rafforzare carattere, sicurezza e gestione del conflitto.</p>
 
 <div class="course-time">
-Sabato 10:00 – 11:00
+Sabato 11:00 – 12:00
 </div>
 </div>
 

@@ -1,6 +1,6 @@
 ---
 title: <br>DifensIva <br> ASD
-background: /images_2/difensiva_palestra.jpeg
+background: /images_2/difensiva_palestra.jpg
 permalink: /
 ---
 
@@ -12,7 +12,7 @@ Inizia il tuo percorso con noi!
 
 <br><br>
 <p align="center">
-  <img src="/difensiva/images_2/difensiva_omino.jpg" alt="video" style="width: 40%; height: auto;"/>
+  <img src="/difensiva/images_2/difensiva_omino.jpeg" alt="video" style="width: 40%; height: auto;"/>
 </p>
 
 

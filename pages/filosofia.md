@@ -1,6 +1,6 @@
 ---
 title: <br><br>Filosofia
-background: /images_2/difensiva_filosofia_banner.jpg
+background: /images_2/difensiva_filosofia_banner.png
 permalink: /filosofia/
 ---
 

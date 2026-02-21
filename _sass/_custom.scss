@@ -311,6 +311,14 @@ header {
   border-radius: 16px;
   border: 1px solid rgba(15,23,42,.08);
 }
+.page-header img,
+.page-banner img,
+.hero img,
+.masthead img {
+  width: 100% !important;
+  height: 38vh !important;
+  object-fit: cover !important;
+}
 
 .page-header {
   min-height: 42vh !important;

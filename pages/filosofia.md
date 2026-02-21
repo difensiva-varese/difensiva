@@ -52,6 +52,22 @@ Allenare il controllo di sé è parte della difesa.
 
 ---
 
+## La nostra filosofia spiegata in breve
+
+<p class="video-intro">
+Uno sguardo sintetico sul nostro approccio: tecnica, consapevolezza e crescita personale.
+</p>
+
+<div class="video-wrapper">
+  <video controls>
+    <source src="{{ site.baseurl }}/images_2/video_radio.mp4" type="video/mp4">
+    Il tuo browser non supporta il video.
+  </video>
+</div>
+
+---
+
+
 <div class="cta-row">
   <a href="{{ site.baseurl }}/corsi/" class="btn btn-primary btn-lg">Scopri i corsi</a>
   <a href="{{ site.baseurl }}/contatti/" class="btn btn-outline-primary btn-lg">Contattaci</a>

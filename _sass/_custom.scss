@@ -305,7 +305,7 @@ header {
 }
 
 .flyer-image{
-  max-width: 780px;
+  max-width: 300px;
   width: 100%;
   height: auto;
   border-radius: 16px;
@@ -347,4 +347,36 @@ header,
 
 .navbar-brand img {
   max-height: 44px !important;  /* abbassa a 36 se vuoi super compatto */
+}
+
+/* Override del div con inline style height:300px */
+.text-center.my-3{
+  height: 90px !important;     /* prova 70–120 */
+  margin-top: .5rem !important;
+  margin-bottom: .5rem !important;
+}
+
+.text-center.my-3 img{
+  height: 100% !important;
+  width: auto !important;
+}
+.video-intro{
+  text-align: center;
+  color: #475569;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.video-wrapper{
+  max-width: 800px;
+  margin: 0 auto 2rem auto;
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 15px 40px rgba(0,0,0,.08);
+}
+
+.video-wrapper video{
+  width: 100%;
+  height: auto;
+  display: block;
 }

@@ -47,6 +47,8 @@ La nostra palestra si trova in <span class="highlight">Via Olona 29, Induno Olon
   <p class="small-note">Puoi salvarla e condividerla.</p>
 
   <div style="text-align:center;">
-    <img src="{{ site.baseurl }}/images_2/difensiva_locandina.jpg"alt="Locandina DifensIva" class="flyer-image">
+    <img src="{{ site.baseurl }}/images_2/difensiva_locandina.jpg"
+     alt="Locandina DifensIva"
+     class="flyer-image">
   </div>
 </div>

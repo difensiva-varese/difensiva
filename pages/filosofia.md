@@ -7,7 +7,7 @@ permalink: /filosofia/
 
 <br><br>
 <p align="center">
-  <img src="/difensiva/images_2/difensiva_filosofia.jpg" alt="video" style="width: 40%; height: auto;"/>
+  <img src="{{ site.baseurl }}/images_2/difensiva_filosofia.jpg" alt="video" style="width: 40%; height: auto;"/>
 </p>
 
 
@@ -17,10 +17,15 @@ Un'attività adatta a tutte le età per sentirsi davvero protetti e in forma.
 Inizia il tuo percorso con noi! 
 
 <br><br>
-
+<!--
 <p align="center">
   <img src="/difensiva/images_2/gif_difesa.gif" alt="video" style="width: 40%; height: auto;"/>
 </p>
+-->
 
-
-
+<p align="center">
+  <video controls style="width: 40%; height: auto;">
+    <source src="{{ site.baseurl }}/images_2/video_difesa.mp4" type="video/mp4">
+    Il tuo browser non supporta il video.
+  </video>
+</p>

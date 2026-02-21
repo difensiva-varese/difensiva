@@ -4,11 +4,34 @@ background: /images_2/difensiva_palestra_2.jpg
 permalink: /
 ---
 
+Impara a difenderti con **DifensIva ASD**, la disciplina che integra diverse arti marziali per la tua sicurezza personale.
 
-Impara a difenderti con DifensIva, la disciplina che integra diverse arti marziali per la tua sicurezza personale.
-Non solo acquisirai tecniche efficaci, ma rafforzerai anche la tua mente e il tuo corpo, migliorando concentrazione, equilibrio e autostima.
-Un'attività adatta a tutte le età per sentirsi davvero protetti e in forma. 
-Inizia il tuo percorso con noi! 
+<div class="lead-text">
+Tecnica, consapevolezza e sicurezza per ogni età.
+</div>
+
+---
+
+## Perché scegliere DifensIva
+
+- ✔ Tecniche efficaci e realistiche  
+- ✔ Miglioramento di concentrazione, equilibrio e autostima  
+- ✔ Allenamento completo per corpo e mente  
+- ✔ Ambiente professionale e inclusivo  
+
+---
+
+<div style="text-align:center; margin-top: 2rem;">
+  <a href="{{ site.baseurl }}/contatti/" class="btn btn-primary btn-lg">
+    Prenota una prova gratuita
+  </a>
+</div>
+
+---
+
+<div style="text-align:center; margin-top: 3rem;">
+  <img src="{{ site.baseurl }}/images_2/difensiva_omino.jpeg" alt="DifensIva" style="max-width: 500px; width: 100%; height: auto;">
+</div>
 
 <br><br>
 <p align="center">

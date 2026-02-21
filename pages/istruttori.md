@@ -2,7 +2,7 @@
 layout: team
 title: Istruttori
 description: Chi siamo
-background: /images_2/difensiva_istruttori.jpg
+background: /images_2/difensiva_classe.jpg
 permalink: /istruttori/
 ---
 

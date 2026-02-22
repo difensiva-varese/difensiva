@@ -27,15 +27,6 @@ Giovedì 20:00 – 21:30 (classe mista)
 </div>
 
 
-<div class="course-card">
-<h3>DifensIva no contact</h3>
-<p>Versione light dell'allenamento DifensIva, dedicata a chi vuole focalizzarsi su benessere fisico, coordinazione e consapevolezza corporea.  
-Non sono previsti esercizi di contatto.</p>
-
-<div class="course-time">
-Giovedì 20:00 – 21:00
-</div>
-</div>
 
 
 <div class="course-card">

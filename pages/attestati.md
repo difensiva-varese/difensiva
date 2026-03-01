@@ -35,7 +35,7 @@ Giovedì 20:00 – 21:30 (classe mista)
 Include preparazione atletica, linee e forme dell'arte, esercizi di sensibilità e ascolto del corpo.</p>
 
 <div class="course-time">
-Sabato 10:00 – 11:00
+Domenica 10:00 – 11:00
 </div>
 </div>
 
